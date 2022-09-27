@@ -1,2 +1,2 @@
-# duelinglabs.com
-Dueling Labs
+# DUELING LABS
+
